@@ -1,0 +1,7 @@
+UnityKeyCodeDisplay/Library
+UnityKeyCodeDisplay/Temp
+UnityKeyCodeDisplay/*.suo
+UnityKeyCodeDisplay/*.user
+UnityKeyCodeDisplay/*.pidb
+UnityKeyCodeDisplay/*.userprefs
+.DS_Store
